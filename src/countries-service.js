@@ -1,6 +1,3 @@
-// const BASE_URL = 'https://restcountries.com/v2';
-// const OPTIONS = 'fields=name,capital,population,flags,languages';
-
 export function fetchCountries(searchQuery) {
   const BASE_URL = 'https://restcountries.com/v2';
   const OPTIONS = 'fields=name,capital,population,flags,languages';
